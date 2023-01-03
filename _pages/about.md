@@ -5,9 +5,24 @@ permalink: /about/
 image: '/assets/img/01.jpg'
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+**EXPERIENCES**
+* Product Management Intern, May 2022 – Aug 2022
+- AImazing
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+* Regional Sales Analytics and Operations Intern, Jan 2022 – May 2022
+- Grab
+
+* Business Development (Strategic Projects) Intern, May 2021 – Nov 2021
+- Shopee
+
+* Commercial Operations & Strategy Intern, Jan 2021 – May 2021
+- Schneider Electric
+
+* Project Analyst, Aug 2020 – May 2021
+- NUS Business Analytics Consulting Team
+
+
+Please refer to my [CV](https://github.com/imihshos) for more details. 
 
 ***
 
