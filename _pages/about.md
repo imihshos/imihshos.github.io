@@ -26,6 +26,15 @@ For more details about my experiences, please refer to my [CV](https://github.co
 
 ***
 
+**EDUCATION**
+* National University of Singapore, 2018-2022
+  - Bachelor of Business Administration, Honours
+* Hwa Chong Institution, 2016-2017
+  - Singapore-Cambridge GCE A-Level
+* Nanyang Girls' High School, 2012-2015
+  - Integrated Programme (IP)
+
+***
 > Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
 
 ***
