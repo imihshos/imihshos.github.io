@@ -9,6 +9,7 @@ Below are some of the data analytics and visualisation projects that I've worked
 * [Project 1](https://github.com/imihshos)
 * [Project 2](https://github.com/imihshos)
 * [Project 3](https://github.com/imihshos)
+* [Project 4](https://github.com/imihshos)
 
 
-***
+
