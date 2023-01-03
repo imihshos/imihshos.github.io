@@ -6,26 +6,13 @@ url: https://imihshos.github.io # the base hostname & protocol for your site, e.
 
 
 # Author Settings
+author:
   name: Soh Si Ying
   image: '/assets/img/01.jpg'
-  job: Hi I'm Si Ying! 
-  bio: |+
-    <br />
-    I'm currently a fresh graduate from NUS Business School with a Specialisation in Business Analytics and Second Major in Economics.
-    <br />
-    <br />
-    I have a keen interest in using analytics to derive meaningful insights from big data to aid business functions. 
-    <br />
-    I'm motivated and driven to make contributions
-    <br />
-    In my free time, I enjoy doing all kind of sports, travelling and cafehopping.  
-    <br />
-    <br />
-  resume: sohsiying@gmail.com
-  email: sohsiying@gmail.com
-  github: https://github.com/imihshos
-  linkedin: https://www.linkedin.com/in/sohsiying
-
+  job: Hi I'm Si Ying!
+  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  email: forexample@website.com
+  
 # Contact links
 contact:
   - name: Twitter
@@ -34,15 +21,6 @@ contact:
     link: https://facebook.com/
   - name: Instagram
     link: https://instagram.com/
-
-
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
-
-
-# Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
-
 
 # Build settings
 markdown: kramdown
