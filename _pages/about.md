@@ -22,7 +22,7 @@ image: '/assets/img/01.jpg'
   - NUS Business Analytics Consulting Team
 
 
-Please refer to my [CV](https://github.com/imihshos) for more details. 
+For more details about my experiences, please refer to my [CV](https://github.com/imihshos).
 
 ***
 
