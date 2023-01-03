@@ -1,18 +1,30 @@
-title: Derrick Wells – Independent Product Designer
+title: Soh Si Ying
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://imihshos.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
-author:
-  name: Derrick Wells
+  name: Soh Si Ying
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
-
+  job: Hi I'm Si Ying! 
+  bio: |+
+    <br />
+    I'm currently a fresh graduate from NUS Business School with a Specialisation in Business Analytics and Second Major in Economics.
+    <br />
+    <br />
+    I have a keen interest in using analytics to derive meaningful insights from big data to aid business functions. 
+    <br />
+    I'm motivated and driven to make contributions
+    <br />
+    In my free time, I enjoy doing all kind of sports, travelling and cafehopping.  
+    <br />
+    <br />
+  resume: sohsiying@gmail.com
+  email: sohsiying@gmail.com
+  github: https://github.com/imihshos
+  linkedin: https://www.linkedin.com/in/sohsiying
 
 # Contact links
 contact:
