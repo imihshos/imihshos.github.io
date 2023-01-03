@@ -10,8 +10,18 @@ author:
   name: Soh Si Ying
   image: '/assets/img/01.jpg'
   job: Hi I'm Si Ying!
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  bio: |+
+    <br />
+    I'm currently a fresh graduate from NUS Business School with a Specialisation in Business Analytics and Second Major in Economics.
+    <br />
+    <br />
+    I have a keen interest in using analytics to derive meaningful insights from big data to aid business functions. 
+    <br />
+    I'm motivated and driven to make contributions
+    <br />
+    In my free time, I enjoy doing all kind of sports, travelling and cafehopping.
+    <br />
+  email: sohsiying@gmail.com
   
 # Contact links
 contact:
