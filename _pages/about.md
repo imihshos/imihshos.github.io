@@ -39,6 +39,7 @@ For more details about my experiences, please refer to my [CV](https://github.co
 **PERSONAL**
 
 I identify strongly with my MBTI personality type, INTJ. 
+<br/>
 In my free time, I enjoy doing all kind of sports, travelling (roadtrips!) and going on food adventures.  
 
 ***
