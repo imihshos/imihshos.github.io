@@ -7,13 +7,15 @@ permalink: /project/
 Below are some of the data analytics and visualisation projects that I've worked on during my undergraduate studies. 
 
 **DATA ANALYTICS**
-* [Project 1](https://github.com/imihshos)
-* [Project 2](https://github.com/imihshos)
-* [Project 3](https://github.com/imihshos)
-* [Project 4](https://github.com/imihshos)
+* [Airbnb in Singapore](https://github.com/imihshos/airbnb_analytics)
+* [Project](https://github.com/imihshos)
+* [Project](https://github.com/imihshos)
+* [Project](https://github.com/imihshos)
+* [Effect of Being a Betting Favourite on Winning UFC Fights](https://github.com/imihshos/rdd_ufc)
+* [Multi-Armed Bandit with Discount Factors](https://github.com/imihshos/mab_rl)
 
 **DATA VISUALISATION**
-* [Project 1](https://github.com/imihshos)
+* [Stock Screener for SG Stocks](https://github.com/imihshos/sg_stock_screener)
 * [Project 2](https://github.com/imihshos)
 
 
