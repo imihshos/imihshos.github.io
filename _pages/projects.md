@@ -7,8 +7,8 @@ permalink: /project/
 Below are some of the data analytics and visualisation projects that I've worked on during my undergraduate studies. 
 
 **DATA ANALYTICS**
+* [Portfolio Allocation Optimisation using Machine Learning](https://github.com/imihshos/portfolio_allocation)
 * [Airbnb in Singapore](https://github.com/imihshos/airbnb_analytics)
-* [Project](https://github.com/imihshos)
 * [Project](https://github.com/imihshos)
 * [Project](https://github.com/imihshos)
 * [Effect of Being a Betting Favourite on Winning UFC Fights](https://github.com/imihshos/rdd_ufc)
