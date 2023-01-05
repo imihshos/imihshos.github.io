@@ -18,5 +18,6 @@ Below are some of the data analytics and visualisation projects that I've worked
 **DATA VISUALISATION**
 * [Stock Screener for SG Stocks](https://github.com/imihshos/sg_stock_screener)
 * [Europe Travel App](https://github.com/imihshos/travelinfo_app)
+* [Supermarket Marketing Campaign Dashboard](https://drive.google.com/drive/folders/10UvrLvrZ6LJXEnB7cNLEZzJz7yymGdRa?usp=sharing)
 
 
