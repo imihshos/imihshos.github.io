@@ -37,6 +37,5 @@ For more details about my experiences, please refer to my [CV](https://drive.goo
 ***
 
 **PERSONAL**
-
 <br/>
-In my free time, I enjoy doing all kind of sports, travelling (roadtrips!) and going on food adventures.  
+In my free time, I enjoy doing all kind of sports, travelling (roadtrips!), going on food adventures and I'm always down for a game of mahjong!
