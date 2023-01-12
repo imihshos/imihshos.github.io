@@ -1,8 +1,7 @@
 
 ---
 layout: page
-title: Projects
-permalink: /project/
+title: Relevant Modules
 ---
 
 
@@ -36,5 +35,5 @@ Below are some of the relevant modules that I've taken during my undergraduate s
 * Money and Banking I
 
 **DYOM EDX**
-* [Big Data Analytics] (https://courses.edx.org/certificates/87dc6555bf704b858e014b06aede96f0)
-* [Analytics for Decision Making] (https://courses.edx.org/certificates/c4bf38d819524d10bb014a0cbe3d6ae6)
+* [Big Data Analytics](https://courses.edx.org/certificates/87dc6555bf704b858e014b06aede96f0)
+* [Analytics for Decision Making](https://courses.edx.org/certificates/c4bf38d819524d10bb014a0cbe3d6ae6)
