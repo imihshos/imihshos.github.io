@@ -1,39 +1,22 @@
 
 ---
 layout: page
-title: Relevant Modules
+title: Projects
+permalink: /project/
 ---
 
+Below are some of the data analytics and visualisation projects that I've worked on during my undergraduate studies. 
 
-Below are some of the relevant modules that I've taken during my undergraduate studies in the National University of Singapore. 
+**DATA ANALYTICS**
+* [Portfolio Allocation Optimisation using Machine Learning](https://github.com/imihshos/portfolio_allocation)
+* [Airbnb in Singapore](https://github.com/imihshos/airbnb_analytics)
+* [Health Insurance Cross Sell Prediction](https://github.com/imihshos/vehicle_insurance_prediction)
+* [King County Housing Price Prediction](https://github.com/imihshos/kc_housing_price)
+* [Optimisation of Staff Scheduling for Restaurants](https://github.com/imihshos/scheduling_optimisation)
+* [Effect of Being a Betting Favourite on Winning UFC Fights](https://github.com/imihshos/rdd_ufc)
+* [Multi-Armed Bandit with Discount Factors](https://github.com/imihshos/mab_rl)
 
-**BUSINESS ANALYTICS**
-* Decision Analytics using Spreadsheets
-* Programming for Business Analytics
-* Operations and Technology Management
-* Descriptive Analytics with R
-* Predictive Analytics in Business
-* Data Management for Business Analytics
-* Introduction to Optimization
-* Stochastic Models in Management
-* Dynamic Pricing and Revenue Management
-* Data Visualisation
-* Causal Analytics for Managerial Decisions
-* Sem in Analytics: Tidyverse Principles And Tidymodels
-
-**ECONOMICS**
-* Managerial Economics 
-* Quantitative Methods for Economic Analysis
-* Foundations for Econometrics
-* Econometrics I
-* Econometrics II
-* Microeconomic Analysis I
-* Microeconomic Analysis II
-* Macroeconomic Analysis I
-* Macroeconomic Analysis II
-* Financial Economics I
-* Money and Banking I
-
-**DYOM EDX**
-* [Big Data Analytics](https://courses.edx.org/certificates/87dc6555bf704b858e014b06aede96f0)
-* [Analytics for Decision Making](https://courses.edx.org/certificates/c4bf38d819524d10bb014a0cbe3d6ae6)
+**DATA VISUALISATION**
+* [Stock Screener for SG Stocks](https://github.com/imihshos/sg_stock_screener)
+* [Europe Travel App](https://github.com/imihshos/travelinfo_app)
+* [Supermarket Marketing Campaign Dashboard](https://drive.google.com/drive/folders/10UvrLvrZ6LJXEnB7cNLEZzJz7yymGdRa?usp=sharing)
