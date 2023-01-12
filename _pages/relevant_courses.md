@@ -5,6 +5,7 @@ title: Projects
 permalink: /project/
 ---
 
+
 Below are some of the relevant modules that I've taken during my undergraduate studies in the National University of Singapore. 
 
 **BUSINESS ANALYTICS**
