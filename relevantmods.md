@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Relevant Modules
-permalink: /relevantmods/
 ---
 
 
