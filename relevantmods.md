@@ -5,7 +5,7 @@ permalink: /relevantmods/
 ---
 
 
-Below are some of the relevant modules that I've taken during my undergraduate studies in the National University of Singapore. 
+Below are some of the relevant modules that I've taken during my undergraduate studies at the National University of Singapore. 
 
 **BUSINESS ANALYTICS**
 * Decision Analytics using Spreadsheets
