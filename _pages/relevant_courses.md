@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Projects
-permalink: /coursework/
+permalink: /projects/
 ---
 
 Below are some of the relevant modules that I've taken during my undergraduate studies in the National University of Singapore. 
