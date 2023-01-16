@@ -7,7 +7,7 @@ image: '/assets/img/01.jpg'
 
 **EXPERIENCES**
 * Product Management Intern, May 2022 – Aug 2022
-  - AImazing
+  - Aimazing
 
 * Regional Sales Analytics and Operations Intern, Jan 2022 – May 2022
   - Grab
