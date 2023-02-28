@@ -28,7 +28,7 @@ For more details about my experiences, please refer to my [CV](https://drive.goo
 
 **EDUCATION**
 * National University of Singapore, 2018-2022
-  - Bachelor of Business Administration, Honours ([Specialisation in Business Analytics with a Second Major in Economics](https://imihshos.github.io/relevantmods/))
+  - Bachelor of Business Administration, Honours ([Specialisation in Business Analytics, Second Major in Economics](https://imihshos.github.io/relevantmods/))
 * Hwa Chong Institution, 2016-2017
   - Singapore-Cambridge GCE A-Level
 * Nanyang Girls' High School, 2012-2015
