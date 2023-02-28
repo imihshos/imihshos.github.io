@@ -4,7 +4,7 @@ title:  Relevant Modules
 ---
 
 
-Below are some of the relevant modules that I've taken during my undergraduate studies at the National University of Singapore. 
+Below are some of the relevant modules and courses that I've taken at the National University of Singapore. 
 
 **BUSINESS ANALYTICS**
 * Decision Analytics using Spreadsheets
@@ -33,6 +33,13 @@ Below are some of the relevant modules that I've taken during my undergraduate s
 * Financial Economics I
 * Money and Banking I
 
-**DYOM EDX**
+**DYOM EDX MOOCs**
 * [Big Data Analytics](https://courses.edx.org/certificates/87dc6555bf704b858e014b06aede96f0)
 * [Analytics for Decision Making](https://courses.edx.org/certificates/c4bf38d819524d10bb014a0cbe3d6ae6)
+
+**COURSERA**
+* [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/2CCVD8XKXXF9)
+* [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/29J2UWR47TRB)
+* [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/3Q7L7LEJPLUJ)
+* [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/5NU8RJAK5UGL)
+* [Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/GYYYPTC269ZK)
