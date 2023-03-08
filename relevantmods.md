@@ -38,10 +38,11 @@ Below are some of the relevant modules and courses that I've taken at the Nation
 * [Analytics for Decision Making](https://courses.edx.org/certificates/c4bf38d819524d10bb014a0cbe3d6ae6)
 
 **COURSERA**
-* [Applied Data Science with Python Specialization](https://www.coursera.org/account/accomplishments/certificate/WUCL7TW4Q57F)
+* [Applied Data Science with Python Specialization](https://www.coursera.org/account/accomplishments/certificate/3Q7L7LEJPLUJ)
   - [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/2CCVD8XKXXF9)
   - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/29J2UWR47TRB)
   - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/3Q7L7LEJPLUJ)
   - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/5NU8RJAK5UGL)
+  - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/certificate/WUCL7TW4Q57F)
   
 * [Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/GYYYPTC269ZK)
